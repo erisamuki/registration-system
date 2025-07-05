@@ -1,2 +1,2 @@
-# registration-system
-oop exam
+# ExhibitionRegistrationApp
+GUI & Database Integration in Exhibition Registration System
